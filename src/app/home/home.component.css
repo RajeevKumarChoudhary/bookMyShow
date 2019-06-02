@@ -1,0 +1,23 @@
+.container-fluid{
+    padding: 20px;
+    background-color: #2F4F4F;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 100vh
+}
+.container-fluid::-webkit-scrollbar{
+    display: none
+}
+.col-sm-1{
+    padding: 10px;
+}
+
+.header{
+    width: 100%;
+    height: auto;
+    background-color: slategrey;
+    color: white;
+}
+mat-card{
+    background-color:  #999999;
+}
